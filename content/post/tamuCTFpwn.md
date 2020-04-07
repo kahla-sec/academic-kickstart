@@ -52,7 +52,7 @@ And Bingo we got our shell :D
 
 ![TASK](https://imgur.com/jd78uIm.png)
 
-** NOTE: ** Task files ** [HERE](https://github.com/kahla-sec/CTF-Writeups/tree/master/TAMU%20CTF/B64DECODER) **
+**NOTE:** Task files ** [HERE](https://github.com/kahla-sec/CTF-Writeups/tree/master/TAMU%20CTF/B64DECODER) **
 
 ## **TROLL (50pts)** ##
 
@@ -113,7 +113,7 @@ Note: the offset in the remote server is different, so i had to guess it xD Howe
 
 ![MAIN](https://imgur.com/QjwTHDR.png)
 
-** NOTE: ** Task files ** [HERE](https://github.com/kahla-sec/CTF-Writeups/tree/master/TAMU%20CTF/TROLL) **
+**NOTE:** Task files ** [HERE](https://github.com/kahla-sec/CTF-Writeups/tree/master/TAMU%20CTF/TROLL) **
 
 This is the first time writing a pwn writeup so i hope you enjoyed it , any questions you can find me on twitter @BelkahlaAhmed1
 
