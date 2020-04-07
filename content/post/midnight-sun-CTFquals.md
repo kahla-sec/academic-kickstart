@@ -112,6 +112,6 @@ p.interactive()
 
 ```
 
-**NOTE:** Task files ** [HERE](https://github.com/kahla-sec/CTF-Writeups/tree/master/Midnight%20Sun%20CTF%202020%20Quals/pwn2) **
+**NOTE:** Task files **[HERE](https://github.com/kahla-sec/CTF-Writeups/tree/master/Midnight%20Sun%20CTF%202020%20Quals/pwn2)**
 
 These tasks were really fun, i'm sorry for the lack of details because i'm really busy this period :( 
