@@ -65,4 +65,4 @@ email: ""
 #- Visitors
 ---
 
-Pentester, Security Enthusiastic from Tunisia, I enjoy playing in hacking and pentesting competitions.
+Pentester, Security Enthusiastic from Tunisia, I enjoy playing in hacking and pentesting competitions and skip classes to play CTF.
