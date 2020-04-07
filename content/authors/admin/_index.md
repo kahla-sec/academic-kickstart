@@ -15,7 +15,7 @@ role: Cybersecurity Enthusiastic - CTF Player @ Fword
 # Organizations/Affiliations
 organizations:
 - name: Securinets
-  url: "www.securinets.com"
+  url: "http://www.securinets.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  Pentester, Security Enthusiastic from Tunisia, I enjoy playing in hacking and pentesting competitions, i skip classes to play CTF. 
