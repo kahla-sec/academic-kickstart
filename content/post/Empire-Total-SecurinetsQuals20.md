@@ -9,8 +9,8 @@ profile: true  # Show author profile?
 comments: true  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Empire Total"
-  image: "quals.jpg"
+  caption: ""
+  image: ""
 ---
 
 # **Empire Total (1000pts) (7 Solves)** #
