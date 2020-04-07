@@ -1,5 +1,5 @@
 ---
-title: Empire Total - Securinets Quals20
+title: Empire Total - Securinets Quals 20
 summary: Writeup for the web exploitation task Empire Total in Securinets Quals 2020.
 date: "2020-03-21T00:00:00Z"
 
@@ -7,7 +7,6 @@ reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: true  # Show comments?
-author: kahla
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Empire Total"
