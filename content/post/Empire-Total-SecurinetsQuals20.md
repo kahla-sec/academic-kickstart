@@ -1,6 +1,6 @@
 ---
 title: Empire Total - Securinets Quals 20
-summary: Writeup for the web exploitation task Empire Total in Securinets Quals 2020.
+summary: 
 date: "2020-03-21T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
