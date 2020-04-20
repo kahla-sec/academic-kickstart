@@ -1,7 +1,7 @@
 ---
 title: "Detailed Writeups - Binary Exploitation"
 summary: "Detailed binary exploitation writeups from UMD CTF and WPICTF , heap based overflow and format string vulnerability."
-date: "2020-04-20T22:00:00Z"
+date: "2020-04-20T20:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
