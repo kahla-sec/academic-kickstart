@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cybersecurity Enthusiastic - CTF Player @ Fword
+role: Cybersecurity Enthusiast - CTF Player @ Fword
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.securinets.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Pentester, Security Enthusiastic from Tunisia, I enjoy playing in hacking and pentesting competitions,i skip classes to play CTF. 
+bio:  Pentester, Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions,i skip classes to play CTF. 
 
 interests:
 - CyberSecurity
