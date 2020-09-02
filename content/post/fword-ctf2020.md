@@ -13,8 +13,6 @@ header:
   image: ""
 ---
 
-# FwordCTF 2020 Web+Bash writeups #
-
 Our team Fword organized FwordCTF 2020 with more than 900 teams and 1900 participants , I've been in charge of managing the infrastructure and Web + Bash categories, we will discuss infrastructure stuffs in future articles and how to  deploy things as our platform got a maximum of 2mins down and tasks had 0 down time.
 
 ![STATS](https://i.imgur.com/Mw8OoKF.png)
