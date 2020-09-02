@@ -1,7 +1,7 @@
 ---
 title: FwordCTF 2020 - Web/Bash Writeups
 summary: Official writeups for FwordCTF2020 Web/Bash challenges
-date: "2020-09-2T08:00:00Z"
+date: "2020-09-02T00:08:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
