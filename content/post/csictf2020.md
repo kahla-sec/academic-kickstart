@@ -1,7 +1,7 @@
 ---
 title: CSICTF 2k20 - Web Exploitation
-summary: Web exploitation writeups of CSICTF 2k20
-date: "2020-07-21T20:00:00Z"
+summary: Web exploitation writeups of CSICTF 2k20 - File Library Task and The Unusual Suspects Web tasks
+date: "2020-07-21T08:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
