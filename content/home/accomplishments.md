@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "New York University"
+  organization_url = "https://csaw.io"
+  title = "CSAW MENA Finals 2nd Place"
+  url = ""
+  certificate_url = "https://www.credential.net/58f14144-e078-41af-a3c4-a8ebbb308cfc?key=4c8c1c68be35b619f9f44641608f33bd0da31392f85cc7602a598e59136e41ba#gs.puajz3"
+  date_start = "2020-12-01"
+  date_end = ""
+  description = ""
+
+
+
+[[item]]
   organization = "Rochester Institute Of Technology"
   organization_url = ""
   title = "Cybersecurity Fundamentals"
