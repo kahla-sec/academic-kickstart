@@ -23,11 +23,11 @@ date_format = "Jan 2006"
   company_url = "www.defensy.io"
   location = "Tunisia"
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "2021-03-01"
   description = """
   Responsibilities include:
   
-  * Directed several VAPT activitie
+  * Directed several VAPT activities
   * Participating in SOCaaS solution development
   * Developing an automated Penetration Testing Framework
   """
@@ -42,15 +42,16 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * I held Web Security Workshop throughout the semester 
-  * I also Held Networking Security Workshop
-  * Organizing CTF challenges
+  * Held Web Security Workshop throughout the semester 
+  * Held Networking Security Workshop
+  * Held Active Directory Security & Attacks Workshop (https://bit.ly/31MHMsj)
+  * Organizing CTF challenges & CTF Infrastructure deployment
   """
 
 [[experience]]
   title = "CTF Player"
   company = "Fword"
-  company_url = ""
+  company_url = "www.fword.wtf"
   location = ""
   date_start = "2018-11-01"
   date_end = ""
