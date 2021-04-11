@@ -1,5 +1,5 @@
 ---
-title: AngstromCTF Web 
+title: AngstromCTF Web Writeups
 summary: 
 date: "2021-04-11T00:20:00Z"
 
@@ -12,7 +12,6 @@ header:
   caption: ""
   image: ""
 ---
-
 Finally after finishing my exams , I had the opportunity to participate in the last 2 days of AngstromCTF with my team Fword and managed to solve all the web challenges except the last 3 tasks, unfortunately I didn't have the chance to try the last two ones , bad subjects at school are always keeping me from playing CTFs and learning useful stuffs :( !
 However, I have really liked the web challenges especially the client side ones, we will go through all the tasks so let's begin.
 
