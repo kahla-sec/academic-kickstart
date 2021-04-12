@@ -93,6 +93,8 @@ And Bingo we got our flag
 
 ## nomnomnom ##
 
+![TASK](https://imgur.com/V2LXwDj.png)
+
 It was a client-side task, our goal is to leak the admin page's source code in order to get the flag so we have to find a way and get an XSS. Reviewing the source code we can spot a possible injection sink in the **share name** but unfortunately
 the page is protected with a strict CSP , the only way to execute javascript (as far as I know) is using the nonce value which is randomly generated on every request.
 
@@ -254,7 +256,7 @@ Finally to report our page to the admin we had to manually add the report form a
 
 ![TASK](https://imgur.com/s6TCqST.png) 
 
-## Sea of Quills 2  ##
+## Sea of Quills 2 ##
 
 ![TASK](https://imgur.com/RjA6RVw.png)
 
