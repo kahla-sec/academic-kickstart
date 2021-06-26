@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Cybersecurity Consultant & Penetration Tester"
+  company = "EY"
+  company_url = "https://www.ey.com/en_tn"
+  location = "Tunisia"
+  date_start = "2021-05-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Participating in the development of EY CSIRT web platform.
+  * Participating in several Pentest and vulnerability assessment missions for worldwide clients. 
+  """
+
+[[experience]]
   title = "Cybersecurity Consultant & Penetration Tester [Part Time]"
   company = "Defensylab"
   company_url = "https://www.defensy.io"

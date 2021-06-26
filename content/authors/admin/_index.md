@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cybersecurity Enthusiast - CTF Player @ Fword
+role: Cyber Security Consultant @ EY - CTF Player @ Fword
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ organizations:
   url: "http://www.securinets.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Pentester, Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions, i skip classes to play CTF. 
+bio:  Cyber Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions, I skip classes to play CTF. 
 
 interests:
+- Anime && Naruto
 - CyberSecurity
 - Web Exploitation
 - Binary Exploitation
 - CTF
-- Memory Forensics
 - Pentesting
 - Coding
 
@@ -65,4 +65,4 @@ email: ""
 #- Visitors
 ---
 
-Pentester, Security Enthusiastic from Tunisia, I enjoy playing in hacking and pentesting competitions and skip classes to play CTF.
+Cyber Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions and skip classes to play CTF.
