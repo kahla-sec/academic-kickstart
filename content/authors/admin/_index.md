@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cyber Security Consultant @ EY - CTF Player @ Fword
+role: Cyber Security Specialist @ Yogosha - CTF Player @ Zer0pts
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ organizations:
   url: "http://www.securinets.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Cyber Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions, I skip classes to play CTF. 
+bio:  Cyber Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions,I skip classes to play CTF. 
 
 interests:
 - Anime && Naruto
-- CyberSecurity
+- Cyber Security
 - Web Exploitation
 - Binary Exploitation
 - CTF
@@ -33,7 +33,7 @@ education:
   courses:
   - course: Engineers's Degree in Computer Science & Networks
     institution: National Institute Of Applied Science And Technology, INSAT
-    year: 2020
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,4 +65,4 @@ email: ""
 #- Visitors
 ---
 
-Cyber Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions and skip classes to play CTF.
+Cyber Security enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions and skip classes to play CTF.
