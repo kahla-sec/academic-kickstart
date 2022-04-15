@@ -1,7 +1,7 @@
 ---
 title: Securinets CTF Quals 2022 - Infrastructure and Web writeups
-summary: 
-date: "2022-04-14T00:00:00Z"
+summary: Securinets Quals 2022 Infrastructure review and Web challenges writeups.
+date: "2022-04-14T08:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
@@ -18,9 +18,13 @@ The last weekend we organised Securinets CTF Quals 2022, which is the most prest
 ![CTFTIME](https://i.imgur.com/NYhqlD8.png)
 
 As Securinets Technical director I was in charge of managing the CTF, I took care of the Infrastructure and wrote 3 web challenges. In this article we will talk about some infrastructure details and the solutions of my web challenges.
+
 1-Infrastructure
+
 2-Planet sheet Writeup (XSS with CSP Bypass)
+
 3-BrokenParrot Writeup (Custom Java Deserialization Gadget)
+
 4-NarutoKeeper Writeup (XSLeak Challenge)
 
 ## Infrastructure
