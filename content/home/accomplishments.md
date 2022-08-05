@@ -17,6 +17,25 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "eLearnSecurity"
+  organization_url = "https://elearnsecurity.com"
+  title = "eWPTX v2 Certified"
+  url = ""
+  certificate_url = "https://verified.elearnsecurity.com/certificates/bf2cd7f7-ab99-4c95-b040-4d2ed3ea162a"
+  date_start = "2022-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "New York University"
+  organization_url = "https://csaw.io"
+  title = "CSAW MENA Finals 1st Place 2021"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-12-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "New York University"

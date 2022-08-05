@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cyber Security Specialist @ Yogosha - CTF Player @ Zer0pts
+role: Cyber Security Specialist @ Yogosha| Cyber Security Consultant @ EY - CTF Player @ Zer0pts| eWPTX v2 Certified
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
   - course: Engineers's Degree in Computer Science & Networks
     institution: National Institute Of Applied Science And Technology, INSAT
-    year: 2022
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
