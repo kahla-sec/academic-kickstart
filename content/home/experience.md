@@ -18,13 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Product Security Engineer Intern"
+  company = "Mercari, Inc"
+  company_url = "https://engineering.mercari.com/en/blog/entry/20230512-the-art-of-the-security-double-play-how-mercari-combines-internal-audits-and-custom-codeql-queries-to-keep-systems-safe/"
+  location = ""
+  date_start = "2023-02-01"
+  date_end = "2023-05-30"
+  description = """
+* Internal security audits and CodeQL custom query development.
+* Mercari SSDLC Improvement.
+  """
+
+[[experience]]
   title = "Cybersecurity Consultant"
   company = "EY"
-  company_url = ""
+  company_url = "https://www.ey.com/en_tn"
   location = "Tunis, Tunisia"
   date_start = "2022-07-01"
-  date_end = ""
+  date_end = "2023-02-01"
   description = """
+  * Conducting different red team operations and penetration testing missions for different clients from MENA and EMEA Regions
   """
 
 [[experience]]
@@ -33,17 +46,20 @@ date_format = "Jan 2006"
   company_url = "https://www.yogosha.com"
   location = "Paris, France"
   date_start = "2021-09-13"
-  date_end = ""
+  date_end = "2023-01-31"
   description = """
-  Conducting different red team operations and penetration testing missions for different clients from MENA and EMEA Regions
+* Triaged and reproduced incoming vulnerability reports
+* Conducted web application penetration testing
+* Contributed to internal security projects and tools as needed
+* Managed the selection process for platform candidates, assessing technical and writing skills through CTF challenges
   """
 
 
 [[experience]]
-  title = "Cybersecurity Consultant & Penetration Tester"
+  title = "Cybersecurity Consultant"
   company = "EY"
   company_url = "https://www.ey.com/en_tn"
-  location = "Tunisia"
+  location = "Tunis, Tunisia"
   date_start = "2021-05-01"
   date_end = "2021-10-01"
   description = """
@@ -92,7 +108,7 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = ""
   description = """
-  * I learned a lot about Hacking & Cybersecurity
+  * Where I started learning about Hacking & Cybersecurity
   * Web / Binary Exploitation technics
   * I learned more about Pentesting & Memory Forensics
 """

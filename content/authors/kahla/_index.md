@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cyber Security Specialist @ Yogosha - CTF Player @ Zer0pts
+role: Security Engineer @ Mercari JP - CTF Player @ Zer0pts
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio:  Cyber Security Enthusiast from Tunisia, I enjoy playing in hacking and pen
 interests:
 - Anime && Naruto
 - Cyber Security
-- Web Exploitation
+- Web & Mobile Exploitation
 - Binary Exploitation
 - CTF
 - Pentesting

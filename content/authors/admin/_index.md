@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Cyber Security Specialist @ Yogosha| Cyber Security Consultant @ EY - CTF Player @ Zer0pts| eWPTX v2 Certified
+role: Product Security Engineer @ Mercari JP - CTF Player @ Zer0pts| eWPTX v2 Certified
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio:  Cyber Security Enthusiast from Tunisia, I enjoy playing in hacking and pentesting competitions,I skip classes to play CTF. 
 
 interests:
-- Anime && Naruto
+- Anime & Naruto
 - Cyber Security
-- Web Exploitation
+- Web & Mobile Exploitation
 - Binary Exploitation
 - CTF
 - Pentesting
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Engineers's Degree in Computer Science & Networks
+  - course: Engineering Degree in Computer Science & Networks
     institution: National Institute Of Applied Science And Technology, INSAT
     year: 2023
 
